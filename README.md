@@ -3,7 +3,7 @@
 ## Introduction
 Go developers can easily operate ZetrixChain blockchain via the ZetrixChain Go SDK. And you can complete the installation of by downloading the go package in a few minutes.
 
-1. [docs](/docs) is the usage documentations for the ZetrixChain Go SDK.
+1. [docs](https://docs.zetrix.com/en/sdk/go) is the usage documentations for the ZetrixChain Go SDK.
 2. [src](/src)  is the source code for the ZetrixChain Go SDK.
 3. [test](/test)  is the test  code for the ZetrixChain Go SDK.
 4. [examples](/examples) is the examples for the ZetrixChain Go SDK.
@@ -37,4 +37,3 @@ import (
 ## Example project
 ZetrixChain Go SDK provides rich examples for developers' reference
 
-[Sample document entry](docs)
