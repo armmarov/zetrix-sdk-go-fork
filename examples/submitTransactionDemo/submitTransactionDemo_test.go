@@ -4,8 +4,8 @@ package submitTransactionDemo_test
 import (
 	"testing"
 
-	"github.com/zetrix/zetrix-sdk-go/src/model"
-	"github.com/zetrix/zetrix-sdk-go/src/sdk"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/model"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/sdk"
 )
 
 //take send gas, for example

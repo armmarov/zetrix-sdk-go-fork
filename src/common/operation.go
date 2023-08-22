@@ -6,10 +6,10 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/keypair"
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/protocol"
-	"github.com/zetrix/zetrix-sdk-go/src/exception"
-	"github.com/zetrix/zetrix-sdk-go/src/model"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/keypair"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/protocol"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/exception"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/model"
 )
 
 const (

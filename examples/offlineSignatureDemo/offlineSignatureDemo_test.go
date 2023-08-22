@@ -6,11 +6,11 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/keypair"
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/protocol"
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/signature"
-	"github.com/zetrix/zetrix-sdk-go/src/model"
-	"github.com/zetrix/zetrix-sdk-go/src/sdk"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/keypair"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/protocol"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/signature"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/model"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/sdk"
 )
 
 var testSdk sdk.Sdk

@@ -10,7 +10,7 @@ import (
 
 	"github.com/myENA/secureRandom"
 	"github.com/teserakt-io/golang-ed25519/edwards25519"
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/base58"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/base58"
 )
 
 const (

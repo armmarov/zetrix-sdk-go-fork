@@ -5,12 +5,12 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/zetrix/zetrix-sdk-go/src/account"
-	"github.com/zetrix/zetrix-sdk-go/src/blockchain"
-	"github.com/zetrix/zetrix-sdk-go/src/common"
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/keypair"
-	"github.com/zetrix/zetrix-sdk-go/src/exception"
-	"github.com/zetrix/zetrix-sdk-go/src/model"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/account"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/blockchain"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/common"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/keypair"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/exception"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/model"
 )
 
 type ContractOperation struct {

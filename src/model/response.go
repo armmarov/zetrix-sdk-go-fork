@@ -2,7 +2,7 @@
 package model
 
 import (
-	"github.com/zetrix/zetrix-sdk-go/src/crypto/protocol"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/crypto/protocol"
 )
 
 type deal struct {

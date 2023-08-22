@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zetrix/zetrix-sdk-go/src/model"
-	"github.com/zetrix/zetrix-sdk-go/src/sdk"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/model"
+	"github.com/armmarov/zetrix-sdk-go-fork/src/sdk"
 )
 
 var testSdk sdk.Sdk
